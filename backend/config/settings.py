@@ -140,7 +140,7 @@ CORS_ALLOWED_ORIGINS = [
 
 if not DEBUG:
     CSRF_TRUSTED_ORIGINS = [
-    'https://majestic-carriage-production.up.railway.app',
+    'https://urban-chainsaw-production.up.railway.app',
 ]
 
 
